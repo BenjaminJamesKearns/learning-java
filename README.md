@@ -1,3 +1,3 @@
 # Learning Java
 ------
-A repository I will use to help me learn java.
+A repository I will use to help me learn Java.
